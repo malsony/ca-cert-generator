@@ -3,11 +3,11 @@
 ## Usage
  1. Generate a CA key pair:
  ```
- bash gen-ca
+ bash gen-ca.sh
  ```
  2. Generate a Certificate key pair:
  ```
- bash gen-cert
+ bash gen-cert.sh
  ```
  3. Copy or move `CA.crt` (default name of the CA) to your desktop computer and install it as one of "Trusted Root Certification Authorities";
  
